@@ -1,0 +1,18 @@
+{
+  "name": "front-end-automation-test",
+  "version": "1.0.0",
+  "description": "cheerio",
+  "main": "index.js",
+  "dependencies": {
+    "btoa-atob": "^0.1.2",
+    "btoa": "^1.1.2",
+    "colors": "^1.1.2",
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
